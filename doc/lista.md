@@ -5,10 +5,10 @@
 * Zespół B
   * Czarkek (Cezary Koper)
   * Bartek Michułka
-Zespół C
+* Zespół C
   * Rafał
   * Stachu
   * Grybek
-Zespół D
- * Ryszad
- * Władek
+* Zespół D
+  * Ryszad
+  * Władek
